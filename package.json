@@ -1,0 +1,13 @@
+{
+  "name": "@michaelnguyen/ags-cli",
+  "version": "1.0.0",
+  "bin": {
+    "ags": "./bin/ags.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chalk": "^5.0.0",
+    "commander": "^11.0.0"
+  }
+}
